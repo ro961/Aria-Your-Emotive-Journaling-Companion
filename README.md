@@ -1,6 +1,6 @@
 # Aria - Your Emotive Journaling Companion
 
-**Aria** is an AI-driven journaling app designed to offer emotional support and foster personal growth. By combining advanced technologies like **Natural Language Processing (NLP)**, **Sentiment Analysis**, and **Machine Learning**, Aria provides an interactive journaling experience. It's more than just a diary—Aria listens, empathizes, and delivers personalized responses to help you reflect on your emotions and mental well-being.
+**Aria** is an AI-driven journaling app designed to offer emotional support and foster personal growth. By combining technologies like **Natural Language Processing (NLP)**, **Sentiment Analysis**, and **Machine Learning**, Aria provides an interactive journaling experience. It's more than just a diary—Aria listens, empathizes, and delivers personalized responses to help you reflect on your emotions and mental well-being.
 
 ## Features
 
@@ -15,8 +15,6 @@
 - **Personalized Journaling Recommendations**: Based on emotional analysis, Aria offers relevant content like prompts, affirmations, and multimedia resources (e.g., podcasts, meditation exercises) to support your emotional journey.
 
 - **Third-Person Perspective Insights**: Aria uses Compromise.js to allow users to view journal entries from different perspectives, such as third-person narration, offering deeper introspective insights.
-
-- **Data Privacy & Security**: Aria securely stores user data, journal entries, and emotional insights using Supabase, ensuring encrypted storage and real-time synchronization.
 
 - **Cross-Platform Accessibility**: With Aria’s seamless functionality on both iOS and Android, you can access your emotional support journaling anytime, anywhere.
 
