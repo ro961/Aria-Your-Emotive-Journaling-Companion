@@ -1,0 +1,1 @@
+# Aria-Your-Emotive-Journaling-Companion
