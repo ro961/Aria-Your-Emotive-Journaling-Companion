@@ -35,3 +35,8 @@
 5. **Reflective Journaling**: Users can access past entries, view them from different perspectives (e.g., third-person), and gain insights into their emotional patterns and progress.
 
 Aria is designed to be more than just a journal; it's your AI-powered emotional support companion on your journey toward emotional well-being.
+
+## Screenshots
+![Screenshot 2024-04-08 010140](https://github.com/user-attachments/assets/a6b9ea26-7d5b-4338-9074-e7e794051815)
+![Screenshot 2024-04-08 011159](https://github.com/user-attachments/assets/6605123e-7e11-42d7-89d4-22e7d10c6d4f)
+
